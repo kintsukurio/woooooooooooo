@@ -1,0 +1,119 @@
+[
+  {
+    "item" : "biomesoplenty:biome_block:0",
+    "color" : 0,
+    "rarity" : [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "item" : "oreAmethyst",
+    "color" : 2,
+    "rarity" : [
+      {
+        "whitelist": "minecraft:sky",
+        "blacklist": "",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "item" : "oreRuby",
+    "color" : 14,
+    "rarity" : [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "item" : "orePeridot",
+    "color" : 5,
+    "rarity" : [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "item" : "oreTopaz",
+    "color" : 1,
+    "rarity" : [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "item" : "oreTanzanite",
+    "color" : 10,
+    "rarity" : [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "item" : "oreMalachite",
+    "color" : 9,
+    "rarity" : [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "item" : "oreSapphire",
+    "color" : 11,
+    "rarity" : [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "item" : "oreAmber",
+    "color" : 1,
+    "rarity" : [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 0,
+        "depth_max": 255,
+        "weight": 0
+      }
+    ]
+  }
+]
