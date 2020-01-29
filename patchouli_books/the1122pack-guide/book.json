@@ -1,0 +1,6 @@
+{
+	"name": "A Crystal Clear Guide",
+	"landing_text": "Hello $(playername), and welcome to...$(br2)     $(l)$(l:http://the-1122-pack.com)$(#4acfc8)The 1.12.2 Pack$()$(br2)This is an introduction book for this new and redesigned modpack for Minecraft.$(br2)Currently the book contains a few notes and recommendations about the modpack. Reading is highly recommended!",
+	"version": 1,
+	"model": "patchouli:book_blue"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Better Performance",
+    "icon": "minecraft:iron_sword",
+    "category": "enhancing_performance",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "text",
+            "text": "• If you are coming here from modded 1.7.10, remember that modded Minecraft 1.12.2 is different than 1.7.10. Performance is different too.$(br)• Whenever you generate a new world, remember to allow it some time to load the new chunks. This also applies$(br)to new dimensisons.$(br)This will greatly improve your FPS and game experience."
+        },
+		{
+            "type": "text",
+            "text": "$(l)RAM and JVM Args$()$(br2)• It is recommended that 6 GB of RAM will be allocated to the pack for normal play (unless you are using custom JVM Args, which would help with RAM usage).$(br)• Consider adding JVM arguments into the Java Args box of the launcher settings. This can help especially 8 GB RAM machines and increase performance drastically for some users. Experimental JVM arguments to the modpack can be found through $(l:https://pastebin.com/LKtYh9k1)this$() link."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Best Performance",
+    "icon": "minecraft:diamond_sword",
+    "category": "enhancing_performance",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "• If you need further increase in performance, consider adding performance enhancing mods. This can as well drastically increase performance, and can be very recommended.$(br)• If you are still suffering from lag, consider decreasing the render distance to 8 or 6 chunks.$(br)• If you have not already, make sure you are using the$(br)  latest version of Java 8."
+        },
+		{
+            "type": "text",
+            "text": "$(l)Chunk Pregeneration$()$(br2)• Chunk loading causes a lot of lag in game. If you found that constant lag spikes while playing, and the previous tips did not help, this can help your issue. You can pregenerate chunks either manually or by using mods,$(br)like $(l:https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)Chunk Pregenerator$().$(br)This can be useful for clients and servers alike.$(br)• For more help, go to the $(l:discord)Discord$() server or $(l:getting_support)issue tracker$() of the modpack."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Further Tips",
+    "icon": "minecraft:written_book",
+    "category": "gameplay_tips",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "• It is recommended to read the other categories of this book. They provide useful information regarding performance boosts, links, and more to come!$(br)• Enhancing Performance has chapters with recommendations for anyone who needs a boost in performance; reading the $(l:performance_1)Better Performance$() chapter is where one can start."
+        },
+		{
+			"type": "text",
+			"text": "• The Useful Links category has multiple chapters regarding where to$(br)$(l:getting_support)get support$(), and more. Checking it out is highly recommended.$(br)• Make sure you also check out the $(l:discord)official Discord$() of the modpack. In there you could find more useful tips & discuss the gameplay with the community.$(br)• Months of development went into the making of this modpack - remember to have fun playing! That is what the modpack was created for."
+		}
+    ]
+}

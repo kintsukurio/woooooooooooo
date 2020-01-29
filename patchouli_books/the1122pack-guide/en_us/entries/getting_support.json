@@ -1,0 +1,18 @@
+{
+    "name": "Getting Support",
+    "icon": "minecraft:fishing_rod",
+    "category": "useful_links",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "text",
+            "text": "If you need general support, have questions, suggestions, want to report a weird issue, crash, error, or anything else, please post it in the issue tracker, where it is handled.$(br2)Please do not post any of that in $(l:discord)Discord$() or anywhere else.$(br)Those are kept for general posting, community activity, announcements and more."
+        },
+		{
+            "type": "link",
+            "text": "In order to get to the issue tracker page, please click the link bellow.$(br2)Please make sure you are registered to GitHub in order to post new issues.$(br2) $(br2)           ⇩ ⇩ ⇩",
+			"url": "https://bit.ly/The-1-12-2-Pack-Issues",
+			"link_text": "Issue Tracker"
+        }
+    ]
+}
